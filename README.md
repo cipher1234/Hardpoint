@@ -1,0 +1,2 @@
+# Hardpoint
+This is a repo for a new type of malware that I am making . The malware has a feature called hardpoint which can load third party python scripts and run it . This gives the malware tremendous post exploitation capabilities . The malware also has special file locations and tcp sockets that binds to somes special ports to communicate between the two . With this you get the flexibility of python along with the power of C . Its still in active development . The malware is a polymorphic malware and has time based anti debugging abilities
